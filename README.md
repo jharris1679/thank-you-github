@@ -984,9 +984,4 @@ Signed,
 - André Luiz Vargas ([@andrevargas](https://github.com/andrevargas)), Web Developer, Brazil
 - Matías Verdier ([@MatiasVerdier](https://github.com/MatiasVerdier)), Full Stack Developer, Uruguay
 - Pratik Chaudhary ([@abs-zero](https://github.com/abs-zero)), Student, Developer, Nepal
-- 蓝浩 ([@captainblue2013](https://github.com/captainblue2013)), [CREATIVISION, China](https://github.com/PY-ORG)
-- Skyblue ([@skyblue](https://github.com/skyblue)), [CREATIVISION, China](https://github.com/PY-ORG)
-- Asif Raza ([@raoasifraza11](https://github.com/raoasifraza11)), Student, Web Developer, Pakistan
-- Dominic Valenciana ([@kiricon](https://github.com/kiricon)), Software Engineer, USA
-- Thiago F. Lins ([@kidush](https://github.com/kidush)), Full Stack Developer, Brazil
-- Win Htaik Aung ([@winhtaikaung](https://github.com/winhtaikaung)), Software Engineer, Perx Technologies PTE.Ltd,Myanmar
+- Josh Harris ([@jharris1679](https://github.com/jharris1679)), Lover of all Data, Canada
